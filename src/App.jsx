@@ -54,6 +54,7 @@ function App() {
                             maxHeight: 300,
                             overflow: "hidden",
                             userSelect: "none",
+                            boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
                         }}
                     >
                         <div>{e.title}</div>
